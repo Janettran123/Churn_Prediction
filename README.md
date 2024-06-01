@@ -1,5 +1,5 @@
 # Churn_Prediction
-Cleaning, data visualizations, feature engineering, feature selection, machine learning performed on 54 million rows of data and 52 variables 
+Cleaning, data visualizations, feature engineering, feature selection, and machine learning performed on 54 million rows of data and 52 variables 
 
 dataset and output not included due to sensitive information 
 
